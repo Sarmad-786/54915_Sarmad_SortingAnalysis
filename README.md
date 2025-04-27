@@ -15,3 +15,6 @@ How to Compile and Run
 3. Compile the program using:
    ```bash
    g++ main.cpp -o sorting_analysis
+##graph:
+![Sorting Algorithm Execution Times](sorting_graph.png)
+
